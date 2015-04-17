@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#box{
+	border-width: medium;
+	border-style: solid;
+	border-color: black;
+	border-right-width: 15px;
+	width: 273px;
+	margin-left: 574px;
+}
+#gravar{
+	margin-left: 109px;
+}
+#obg{
+	display: none;
+	border-width: medium;
+	border-style: solid;
+	border-color: black;
+	border-right-width: 15px;
+	width: 276px;
+	margin-top: 5px;
+	margin-left: 18px;
+}
