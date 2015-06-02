@@ -8,8 +8,8 @@ Para executar o exemplo abaixo é necessario um servidor Asp Classic, e um banco
 respectivo driver.
 O exemplo esta 100% funcional
 
-# JQuery
-Ele é responsavel por todo o trabalho com o banco de dados. 
+# jQuery
+Ele é responsavel pela comunicação com o VBScript para o trabalho com o banco de dados. 
 
 # Tudo acontece em uma única pagina. *
 
